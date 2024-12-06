@@ -1,0 +1,79 @@
+.part-2-1{
+    background-color: #181818;
+    /* width: 100%; */
+}
+.horizontalline{
+    background-color: grey;
+}
+.word{
+    margin-top: 10px;
+    padding-bottom: 5px;
+    display: flex;
+    gap: 11.8px;
+    margin-left: 15px ;
+}
+.word-1{
+    background-color: white;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 8px;
+    padding-right:  8px;
+    border-radius: 12px;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+
+}
+.word-2{
+    background-color: grey;
+    /* font-size: 14px;
+    font-weight: 400; */
+    font-weight: 0;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 8px;
+    padding-right:  8px;
+    border-radius: 12px;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+.thubnail{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-around;
+    gap: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+}
+.thumbnail-1{
+    width: 80%;
+}
+.information{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 110%;
+    padding-top: 5px;
+}
+.video-detail{
+ font-size: 13px;
+ font-family: 'Roboto', Arial, Helvetica, sans-serif;
+ width: 110%;
+
+}
+.channel-name{
+    color: grey;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 40px;
+    margin-top: 8px;
+    
+}
+.views{
+    color: grey;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 40px;
+    
+}

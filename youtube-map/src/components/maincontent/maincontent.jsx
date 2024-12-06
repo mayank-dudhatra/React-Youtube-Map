@@ -4,6 +4,7 @@ import './maincontent.css'
 function Maincontent () {
     return(
 <>
+
 </>
     )
 }
